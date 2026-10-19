@@ -1,0 +1,15 @@
+package za.ac.cput.domain;
+
+public enum OrderStatus {
+    PENDING_PAYMENT,
+    PAYMENT_APPROVED,
+    PROCESSING,
+    READY_FOR_PICKUP,
+    OUT_FOR_DELIVERY,
+    DELIVERED,
+    RECEIVED_VERIFIED,
+    COMPLETED,
+    CANCELLED,
+    REFUNDED,
+    REJECTED
+}
