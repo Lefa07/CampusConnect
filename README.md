@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Welcome to campusconnect project
 
-## Build with Lovable
+## Build
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
 - **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
